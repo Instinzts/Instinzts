@@ -17,6 +17,6 @@
 <a href="https://github.com/Instinzts/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Instinzts&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/Instinzts/RoyalSupprt13">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Instinzts&repo=convoychat" />
+<a href="https://github.com/Instinzts/RoyalSupprtV13">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Instinzts&repo=RoyalSupprtV13" />
 </a>
