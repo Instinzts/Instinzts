@@ -12,4 +12,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubnamehere&layout=compact)]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Instinzts GitHub stats](https://github-readme-stats.vercel.app/api?username=Instinzts&show_icons=true)
