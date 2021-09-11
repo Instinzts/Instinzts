@@ -8,7 +8,7 @@
 - 📫 How to reach me: ... ZenithCodes@outlook.com! 
 - ⚡ Fun fact: ... Love Dogs & Coding!
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=githubusernamehere&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Instinzts&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 
 ![Instinzts GitHub stats](https://github-readme-stats.vercel.app/api?username=Instinzts&show_icons=true)
 
