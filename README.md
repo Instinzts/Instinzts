@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubnamehere&layout=compact)]
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=githubusernamehere&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
