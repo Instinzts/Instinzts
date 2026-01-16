@@ -6,15 +6,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Instinzts)
 
-<p>
-  <img src="https://cdn-icons-png.flaticon.com/512/7907/7907059.png" width="128" />
+<p>Welcome to my page! </br> I'm Async, Fullstack developer from
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/1200px-Flag_of_Virginia.svg.png" width="30" style="vertical-align: middle;" /> <b>Virginia, United States</b>.
 </p>
-
-<p>
-  Welcome to my page!<br/>
-  I'm { Import } Async, Fullstack developer from <b>The United States</b>
-</p>
-
 
 <h3>Things I code with</h3>
 <p>
