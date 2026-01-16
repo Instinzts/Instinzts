@@ -6,10 +6,15 @@
 
 ![](https://komarev.com/ghpvc/?username=Instinzts)
 
-Welcome to my page!  
-I'm Async, Fullstack developer from **United States**
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Seal_of_Virginia.svg" alt="Seal of Virginia" height="16" />](https://upload.wikimedia.org/wikipedia/commons/6/6f/Seal_of_Virginia.svg)
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/7907/7907059.png" width="128" />
 </p>
+
+<p align="center">
+  Welcome to my page!<br/>
+  I'm Async, Fullstack developer from <b>United States</b>
+</p>
+
 
 <h3>Things I code with</h3>
 <p>
