@@ -8,7 +8,10 @@
 </p>
 
 <p align="center">
-  Welcome to my page! </br> I'm Async, Fullstack Developer from <b>United States</b>.
+  Welcome to my page! </br> I'm Async, Fullstack Developer from <b>
+    <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bad69adf-4f26-4590-8505-e5c41478d5d7" />
+    United States
+  </b>.
 </p>
 
 ---
@@ -17,20 +20,35 @@
 
 <table>
   <tr>
-    <td width="100%">
-      <h3 align="center">Dashboard Platform</h3>
+    <td width="50%">
+      <h3 align="center">Dashboard Project</h3>
       <p align="center">
-        <a href="https://my-app-hazel-seven-22.vercel.app/" target="_blank">
-          <img src="https://via.placeholder.com/600x300/0D1117/58A6FF?text=Dashboard+Preview" alt="Dashboard"/>
+        <a href="https://github.com/Instinzts/[your-dashboard-repo]" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=Dashboard+Preview" alt="Dashboard"/>
         </a>
       </p>
       <p align="center">
-        <a href="https://my-app-hazel-seven-22.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel"/>
+        <a href="https://github.com/Instinzts/[your-dashboard-repo]">
+          <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
         </a>
       </p>
-      <p align="center"><strong>Tech Stack:</strong> Next.js, TypeScript, Tailwind CSS, PostgreSQL</p>
-      <p align="center">A modern dashboard platform built with cutting-edge web technologies</p>
+      <p><strong>Tech Stack:</strong> Next.js, TypeScript, Tailwind CSS, PostgreSQL</p>
+      <p>Brief description of what your dashboard does...</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">[Another Project]</h3>
+      <p align="center">
+        <a href="https://github.com/Instinzts/[another-repo]" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=Project+Preview" alt="Project"/>
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Instinzts/[another-repo]">
+          <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> [Your stack]</p>
+      <p>[Project description]</p>
     </td>
   </tr>
 </table>
@@ -81,10 +99,35 @@
 
 ---
 
+### 📈 Open Source Projects
+
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Instinzts/[repo-name]"><b>[Your Project Name]</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Instinzts/[repo-name]?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Instinzts/[repo-name]?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Instinzts/[repo-name]?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Instinzts/[repo-name]?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### 💼 What I'm Currently Working On
 
-- 🔭 Building a Dashboard Platform with Next.js and TypeScript
-- 🌱 Learning advanced cloud architecture and scalability patterns
+- 🔭 Building a [Dashboard/Platform] with Next.js and TypeScript
+- 🌱 Learning [new technology/framework you're exploring]
 - 👯 Looking to collaborate on open-source projects
 - 💬 Ask me about web development, React, or TypeScript
 
@@ -95,6 +138,12 @@
 <p align="center">
   <a href="https://github.com/Instinzts" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/[your-username]" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:[your-email]" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/email-%23333.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/users/[your-discord-id]" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
