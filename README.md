@@ -10,7 +10,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/7907/7907059.png" width="128" />
 </p>
 
-<p align="center">
+<p>
   Welcome to my page!<br/>
   I'm { Import } Async, Fullstack developer from <b>The United States</b>
 </p>
