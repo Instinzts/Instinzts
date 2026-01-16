@@ -12,7 +12,7 @@
 
 <p align="center">
   Welcome to my page!<br/>
-  I'm Async, Fullstack developer from <b>The United States</b>
+  I'm { Import } Async, Fullstack developer from <b>The United States</b>
 </p>
 
 
