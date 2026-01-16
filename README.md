@@ -8,7 +8,7 @@
 
 Welcome to my page!  
 I'm Async, Fullstack developer from **United States**
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Seal_of_Virginia.svg" alt="Seal of Virginia" height="16" />
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Seal_of_Virginia.svg" alt="Seal of Virginia" height="16" />](https://upload.wikimedia.org/wikipedia/commons/6/6f/Seal_of_Virginia.svg)
 </p>
 
 <h3>Things I code with</h3>
