@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Instinzts)
 
-<p align="center">
+<p>
   <img src="https://cdn-icons-png.flaticon.com/512/7907/7907059.png" width="128" />
 </p>
 
