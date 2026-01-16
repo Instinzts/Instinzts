@@ -63,6 +63,6 @@
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Instinzts" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-    <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <a href="https://discord.com/users/297133495149527042" target="_blank">
         <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
