@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=Instinzts&color=0891b2&style=flat-square)
 
 <p>Hi, I'm Async — a Fullstack Developer from
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/1200px-Flag_of_Virginia.svg.png" width="20" style="vertical-align: middle;" /> <b>Virginia, United States</b>
+     <b>Virginia, United States</b>
 </p>
 
 ### 🛠️ Technologies & Tools
