@@ -53,29 +53,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-    <thead align="center">
-        <tr>
-            <td><b>🎁 Project</b></td>
-            <td><b>🔗 Demo</b></td>
-            <td><b>💻 Tech Stack</b></td>
-            <td><b>📝 Description</b></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><b>Dashboard Platform</b></td>
-            <td><a href="https://my-app-hazel-seven-22.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel" /></a></td>
-            <td>Next.js, TypeScript, Tailwind, PostgreSQL, Shadcn</td>
-            <td>Modern dashboard for data visualization and management</td>
-        </tr>
-    </tbody>
-</table>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
