@@ -32,7 +32,7 @@
 
 ### GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Instinzts&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=21600)<br/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Instinzts&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=Instinzts&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dracula)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Instinzts&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Instinzts&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=21600)
 
